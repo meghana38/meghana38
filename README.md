@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm MEGHANA</h1>
-<h3 align="center">A highly motivated and passionate software developer</h3>
+<h3 align="center">A highly motivated person </h3>
 <br>
 
-- 🔭 I’m currently working on **Frontend**
-
-- 🌱 I’m currently learning **React, node.js**
 
 - 📫 How to reach me **218R1A6747@gmail.com**
 
